@@ -25,3 +25,10 @@ This repository lists papers authored by the **Netabolics** research team. Feel 
 >
 > *This paper discusses the potential benefits of using AI to deepen our mechanistic understanding of disease by leveraging data and knowledge for modeling and simulation of genome-scale biological networks.*
 
+## 2021
+
+> Mauro DiNuzzo. **Method for predictive analysis of a biological system**.
+>
+> World Intellectual Property Organization (WIPO). https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022162440
+>
+> *The patent describes the methodology to integrate ordinary differential equations (ODE)-based simulation of genome-scale biological networks with deep reinforcement learning-based prediction of cellular response to perturbations*.
